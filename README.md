@@ -3,11 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhilmalakar&label=Profile%20views&color=0e75b6&style=flat" alt="nikhilmalakar" /> </p>
 
-- 🔭 I’m currently working on [Leads Take Time](leadstaketime.com)
+- 🌱 I’m currently learning **DevOps**
 
-- 🌱 I’m currently learning **Mobile Application Development**
-
-- 📫 How to reach me **nikhilmalakarofficial@gmail.com**
+- 📫 How to reach me **malakarnikhil26@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
